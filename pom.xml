@@ -22,7 +22,7 @@
                 <configuration>
                         <url>http://52.68.21.28:8080/manager/text</url>
                         <server>tomcatserver</server>
-                        <path>/neeyakka</path>
+                        <path>/nee yakka</path>
                 </configuration>
       	</plugin>
 			
